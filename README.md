@@ -15,7 +15,9 @@ The `OrderProcessor` class violates multiple SOLID principles. Your task is to r
 ## Files
 
 - `OrderProcessor.cs` - C# implementation
+- `OrderProcessor.java` - Java implementation
 - `order_processor.py` - Python implementation
+- `order_processor.rb` - Ruby implementation
 - `OrderProcessor.ts` - TypeScript implementation
 
 ## Instructions
